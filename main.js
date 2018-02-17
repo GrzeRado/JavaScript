@@ -5,5 +5,15 @@ if (myColour === "red") {
         alert("you mistake")
     }*/
 
-var number = Math.random();
+/*var number = Math.random();
 alert(number);
+*/
+
+var number = Math.round( Math.random() * 3);
+alert(number);
+
+if(number ===3){
+    alert("fizz")
+}else{
+    alert("numer is less than 3")
+}
