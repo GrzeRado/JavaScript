@@ -9,13 +9,13 @@ if (myColour === "red") {
 alert(number);
 */
 
-//var number = Math.round( Math.random() * 3);
+var number = Math.round( Math.random() * 3);
 //alert(number);
 
 var number = 0;
 alert(number);
 
-if(number ===3){
+if(number === 3 && number != 0){
     alert("fizz")
 }else{
     alert("numer is less than 3")
