@@ -9,7 +9,10 @@ if (myColour === "red") {
 alert(number);
 */
 
-var number = Math.round( Math.random() * 3);
+//var number = Math.round( Math.random() * 3);
+//alert(number);
+
+var number = 0;
 alert(number);
 
 if(number ===3){
