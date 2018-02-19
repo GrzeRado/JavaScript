@@ -1,3 +1,0 @@
-goes with new file testing
-
-the typeof means that we can get information about variable that contain in global scope of JavaScript
