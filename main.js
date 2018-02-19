@@ -5,6 +5,7 @@ if (myColour === "red") {
         alert("you mistake")
     }*/
 
+conditions below added
 /*var number = Math.random();
 alert(number);
 */
